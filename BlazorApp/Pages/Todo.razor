@@ -1,0 +1,30 @@
+﻿@page "/todo" /*add url for this pages*/
+
+<h3>Todo</h3> 
+
+<p>Numner of todo items: @todos.Count(todo => !todo.IsDone)</p>
+@*Iterate on all todos and add them in list*@
+<ul>
+    @foreach (var todo in todos){
+        <li>@todo.Title</li>
+    }
+</ul> 
+
+<input placeholder="Something todo" @bind="newTodo"/>
+<button @onclick="AddToDo"> Add todo</button>
+
+@code {
+    private IList<TodoItem> todos = new List<TodoItem>();
+    private string newTodo;
+
+    @* AddToDo*@
+     private void AddToDo()  
+     {
+        if (!string.IsNullOrWhiteSpace(newTodo))
+        {
+            todos.Add(new TodoItem {Title = newTodo});
+            newTodo = string.Empty;
+        }
+     }  
+
+}
