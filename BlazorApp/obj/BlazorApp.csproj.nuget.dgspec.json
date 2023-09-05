@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\meow\\Documents\\GitHub\\myfirstwebapp\\BlazorApp\\BlazorApp.csproj": {}
+    "c:\\Users\\meow\\Documents\\GitHub\\myfirstwebapp\\BlazorApp\\BlazorApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\meow\\Documents\\GitHub\\myfirstwebapp\\BlazorApp\\BlazorApp.csproj": {
+    "c:\\Users\\meow\\Documents\\GitHub\\myfirstwebapp\\BlazorApp\\BlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\meow\\Documents\\GitHub\\myfirstwebapp\\BlazorApp\\BlazorApp.csproj",
+        "projectUniqueName": "c:\\Users\\meow\\Documents\\GitHub\\myfirstwebapp\\BlazorApp\\BlazorApp.csproj",
         "projectName": "BlazorApp",
-        "projectPath": "C:\\Users\\meow\\Documents\\GitHub\\myfirstwebapp\\BlazorApp\\BlazorApp.csproj",
+        "projectPath": "c:\\Users\\meow\\Documents\\GitHub\\myfirstwebapp\\BlazorApp\\BlazorApp.csproj",
         "packagesPath": "C:\\Users\\meow\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\meow\\Documents\\GitHub\\myfirstwebapp\\BlazorApp\\obj\\",
+        "outputPath": "c:\\Users\\meow\\Documents\\GitHub\\myfirstwebapp\\BlazorApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\meow\\AppData\\Roaming\\NuGet\\NuGet.Config"

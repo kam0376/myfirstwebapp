@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p9nRoVIhwkxoY3tw1GCMbRiClVPMEA+XKPBc57d/FDnwoRb0DKnKdjMArBAyJXtqebcNi9/IiOZwghhfDGgLpA==",
+  "dgSpecHash": "dRA/QJr6nFJUaDl+7wb6zXuhccVboepQN/n2vNmR6kLHrQSEHIUytAZmz0TZhAhhn9k8LQ1uTQghCWh2bH0/WQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\meow\\Documents\\GitHub\\myfirstwebapp\\BlazorApp\\BlazorApp.csproj",
+  "projectFilePath": "c:\\Users\\meow\\Documents\\GitHub\\myfirstwebapp\\BlazorApp\\BlazorApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
